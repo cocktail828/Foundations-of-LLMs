@@ -95,22 +95,6 @@
     </tr>
 </table>
 
-
-
-
-
-
 ## 致谢
-
 本书的不断优化，将仰仗各位读者的帮助与支持。您的建议将成为我们持续向前的动力！
-
 所有提出issue的人，我们都列举在此，以表达我们深深的谢意。
-
-
-
-
-如果有此书相关的其他问题，请随时联系我们，可发送邮件至：xuwenyi@zju.edu.cn。
-
-<div align="center"> 
-  <img src=".\figure\wechat_QR_code.jpg" style="width: 90%">
-</div>
